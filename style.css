@@ -1,0 +1,7 @@
+
+#canvas {
+    background-image: url('./paris.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+}
